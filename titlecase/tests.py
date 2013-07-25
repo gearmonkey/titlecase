@@ -130,6 +130,10 @@ TEST_DATA = (
     ( 
         "this is http://foo.com",
         "This Is http://foo.com"
+    ),
+    (
+        "ALL CAPS WITH A NUMBER 4",
+        "All Caps With a Number 4"
     )
 )
 
